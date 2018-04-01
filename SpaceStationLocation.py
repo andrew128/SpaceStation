@@ -1,4 +1,5 @@
 # Code is in Python 3 
+#!/bin/python3
 
 import json
 import turtle
